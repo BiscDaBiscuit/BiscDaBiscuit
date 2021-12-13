@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 im BiscDaBiscuit or Bisc for short!
 
 <!--
 **BiscDaBiscuit/BiscDaBiscuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
