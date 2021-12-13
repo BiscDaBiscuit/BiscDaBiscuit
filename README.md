@@ -7,4 +7,4 @@ __**Goals:**__
 **Coding Languages I Want To Learn:** *HTML/CSS, Js, C++/C#, and so many more!*
 
 **🧰 Toolbox**
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg", alt="Python Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
