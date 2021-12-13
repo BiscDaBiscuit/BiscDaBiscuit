@@ -8,7 +8,7 @@ I create discord bots, malicious discord tools, and much more!*
 ---
 
 __**Goals:**__
-**Coding Languages I Want To Learn:** *HTML/CSS, Js, C++/C#, and so many more!*
+**Coding Languages I Want To Learn:** *HTML/CSS, Js, C++/C#, And So Many More!*
 
 ---
 
