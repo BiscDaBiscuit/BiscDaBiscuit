@@ -1,5 +1,7 @@
 ### Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
+**Currently Working On:** *A edited version of Hazard Nuker created by Rdimo! I am not skidding and I will only be adding to Hazard Nuker not taking away.
+
 ---
 
 *I am a programmer who focuses on python and ethical hacking and vise versa!
