@@ -1,4 +1,4 @@
-### Hi there, 👋 im BiscDaBiscuit or Bisc for short!
+### Hi there, 👋im BiscDaBiscuit or Bisc for short!
 
 ---
 
