@@ -1,6 +1,6 @@
 ### Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
-**Currently Working On:** *A edited version of Hazard Nuker created by Rdimo! I am not skidding and I will only be adding to Hazard Nuker not taking away.
+**Currently Working On:** *A edited version of Hazard Nuker created by Rdimo! I am not skidding and I will only be adding to Hazard Nuker not taking away.*
 
 ---
 
