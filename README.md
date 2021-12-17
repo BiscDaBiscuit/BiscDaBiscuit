@@ -22,6 +22,10 @@ __**Goals:**__
 
 ---
 
+<a href="https://rdimo.github.io/CheatAway" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
