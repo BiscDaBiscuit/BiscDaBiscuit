@@ -3,7 +3,7 @@
 **Currently Working On:** *An edited version of Hazard Nuker created by Rdimo! I am not skidding and I will only be adding to Hazard Nuker not taking away.*
 
 **Discord Server:** *Biscs Barn: https://discord.gg/ysNpg83u5P*
-
+```test```
 ---
 
 *I am a programmer who focuses on python and ethical/non-ethical hacking, mainly non-ethical😈.
