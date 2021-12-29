@@ -6,8 +6,8 @@
 
 ---
 
-*I am a programmer who focuses on python and ethical/non-ethical hacking, mainly non-ethical😈.
-I create discord bots, malicious discord tools, and much more!*
+*I am a programmer who focuses on python and ethical.
+I create discord bots, random easy games, and much more!*
 
 ---
 
