@@ -6,7 +6,7 @@
 
 ---
 
-*I am a programmer who focuses on python and ethical.
+*I am a programmer who focuses on python.
 I create discord bots, random easy games, and much more!*
 
 ---
