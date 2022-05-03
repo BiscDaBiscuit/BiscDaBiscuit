@@ -12,7 +12,7 @@ I create discord bots, random easy games, and much more!*
 ---
 
 __**Goals:**__
-**Coding Languages I Want To Learn:** *HTML/CSS, Js, C++/C#, and so much more!*
+**I Want To Learn:** *HTML/CSS, Js, Batch File, and so much more!*
 
 ---
 
