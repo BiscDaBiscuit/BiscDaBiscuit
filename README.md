@@ -1,18 +1,16 @@
 ### Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
-**Currently Working On:** *An edited version of Hazard Nuker created by Rdimo! I am not skidding and I will only be adding to Hazard Nuker not taking away.*
-
-**Discord Server:** *Biscs Barn: https://discord.gg/ysNpg83u5P*
+**Currently Working On:** *Learning more about HTML and Python with small to medium sized projects!*
 
 ---
 
-*I am a programmer who focuses on python.
-I create discord bots, random easy games, and much more!*
+*I am a programmer who focuses on improving in the languages I prefer and learning
+more about technology! I am currently learning about HTML/CSS and improving in Python.*
 
 ---
 
 __**Goals:**__
-**I Want To Learn:** *HTML/CSS, Js, Batch File, and so much more!*
+**I Want To Learn:** *Js, Batch File, and improve/learn more about Python, HTML, and CSS*
 
 ---
 
