@@ -1,6 +1,6 @@
 ### Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
-**Currently Working On:** *Learning more about HTML and Python with small to medium sized projects!*
+**Currently Working On:** *Learning more about HTML, CSS, and Python. I am making small to medium sized projects!*
 
 ---
 
