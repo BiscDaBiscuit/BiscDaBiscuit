@@ -5,17 +5,17 @@
 
 ---
 
-*I am a programmer who focuses on improving in the languages I prefer and learning
-more about technology! I am currently learning about HTML/CSS and improving in Python.*
+<P><i>I am a programmer who focuses on improving in the languages I prefer and learning
+ more about technology! I am currently learning about HTML/CSS and improving in Python.</i></p>
 
 ---
 
-__**Goals:**__
-**I Want To Learn:** *Js, Batch File, and improve/learn more about Python, HTML, and CSS*
+<h2>Goals:</h2>
+ <p><strong>I Want To Learn:</strong> <i>Js, Batch File, and improve/learn more about Python, HTML, and CSS</i></p>
 
 ---
 
-**🧰 Toolbox**
+<h2>🧰 Toolbox</h2>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Python Logo" width="50" height="50"/>
 
