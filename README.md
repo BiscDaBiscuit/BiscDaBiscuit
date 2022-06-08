@@ -10,7 +10,7 @@ more about technology! I am currently learning about HTML/CSS and improving in P
 ---
 
 # Goals:
-**I Want To Learn:** *Js, Batch File, and improve/learn more about Python, HTML, and CSS</i></p>*
+**I Want To Learn:** *Js, Batch File, and improve/learn more about Python, HTML, and CSS*
 
 ---
 
@@ -20,11 +20,11 @@ more about technology! I am currently learning about HTML/CSS and improving in P
 
 ---
 
-<a href="https://BiscsBarnWebsite.biscdabiscuit.repl.co" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://BiscsBarnWebsite.biscdabiscuit.repl.co" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 ---
