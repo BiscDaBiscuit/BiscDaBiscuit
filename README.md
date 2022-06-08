@@ -20,6 +20,14 @@ __**Goals:**__
 
 ---
 
+  <p>
+    <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/STATS.png">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=never-mind-who&theme=dark&icon_color=fff&show_icons=true" alt="never-mind-who's github stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=never-mind-who&count_private=true&hide=procfile,css&theme=dark&border_color=fff&cache_seconds=1800&layout=compact&langs_count=10&  show_icons=True&custom_title=Most Used Coding Languages" />
+  </p>
+
 <a href="https://BiscsBarnWebsite.biscdabiscuit.repl.co" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
 ---
