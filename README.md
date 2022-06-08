@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi there,👋 im BiscDaBiscuit or Bisc for short!</h1>
+# Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
  <p><strong>Currently Working On:</strong> <i>Learning more about HTML, CSS, and Python. I am making small to medium sized projects!</i></p>
 
@@ -10,12 +10,12 @@
 
 ---
 
-<h2>Goals:</h2>
+# Goals:
  <p><strong>I Want To Learn:</strong> <i>Js, Batch File, and improve/learn more about Python, HTML, and CSS</i></p>
 
 ---
 
-<h2>🧰 Toolbox</h2>
+# 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Python Logo" width="50" height="50"/>
 
