@@ -20,9 +20,7 @@ __**Goals:**__
 
 ---
 
-  <p>
     <img src="https://raw.githubusercontent.com/never-mind-who/read-me/main/images/STATS.png">
-  </p>
 
 <a href="https://BiscsBarnWebsite.biscdabiscuit.repl.co" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
