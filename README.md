@@ -1,18 +1,10 @@
 # Hi there,👋 im BiscDaBiscuit or Bisc for short!
 
-**Currently Working On:** *Learning more about HTML, CSS, and Python. I am making small to medium sized projects!*
-
----
-
 *I am a programmer who focuses on improving in the languages I prefer and learning
 more about technology! I am currently learning about HTML/CSS and improving in Python.*
 
----
-
-# Goals:
-**I Want To Learn:** *Js, Batch File, and improve/learn more about Python, HTML, and CSS*
-
----
+**Goals:** *To improve in python, html, and css; as well as to learn js and lua.*
+**Currently Working On:** *Learning more about HTML, CSS, and Python. I am making small to medium sized projects!*
 
 # 🧰 Toolbox
 
