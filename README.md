@@ -1,22 +1,21 @@
-# Hi there,👋 im BiscDaBiscuit or Bisc for short!
+<div align="center">
 
-*I am a programmer who focuses on improving in the languages I prefer and learning
-more about technology! I am currently learning about HTML/CSS and improving in Python.*
+# Welcome to BiscDaBiscuit's Profile 👋
 
-**Goals:** *To improve in python, html, and css; as well as to learn js and lua.*
-**Currently Working On:** *Learning more about HTML, CSS, and Python. I am making small to medium sized projects!*
 
-# 🧰 Toolbox
+
+<p><img src="https://github.com/BiscDaBiscuit/BiscDaBiscuit/blob/main/images/About.png">
+
+I am a programmer who focuses on improving in the languages<br>I have started to learn, and to learn more about technology!<br>I am currently learning about HTML/CSS and improving in Python.<br><strong>Goals:</strong> To improve in python, html, and css; as well as to learn js and lua.<br>
+<strong>Currently Working On:</strong> Learning more about HTML, CSS, and Python.</i></p>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Python Logo" width="50" height="50"/>
 
----
+<h1></h1>
+<br>
 
+<p><img src="https://github.com/BiscDaBiscuit/BiscDaBiscuit/blob/main/images/STATS.png"></p>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<a href="https://BiscsBarnWebsite.biscdabiscuit.repl.co" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
