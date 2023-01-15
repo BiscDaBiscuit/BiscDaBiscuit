@@ -19,6 +19,5 @@ favored languages I am also set on learning more about technology!<br>I am curre
 
 <p><img src="https://github.com/BiscDaBiscuit/BiscDaBiscuit/blob/main/images/STATS.png"></p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscDaBiscuit&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiscDaBiscuit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
